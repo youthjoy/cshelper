@@ -1,0 +1,7 @@
+F:\Code\CC_Document\CC_Document\QX.Shared\bin\Release\QX.Shared.dll
+F:\Code\CC_Document\CC_Document\QX.Shared\bin\Release\QX.Shared.pdb
+F:\Code\CC_Document\CC_Document\QX.Shared\bin\Release\QX.Model.dll
+F:\Code\CC_Document\CC_Document\QX.Shared\bin\Release\QX.Model.pdb
+F:\Code\CC_Document\CC_Document\QX.Shared\obj\Release\ResolveAssemblyReference.cache
+F:\Code\CC_Document\CC_Document\QX.Shared\obj\Release\QX.Shared.dll
+F:\Code\CC_Document\CC_Document\QX.Shared\obj\Release\QX.Shared.pdb

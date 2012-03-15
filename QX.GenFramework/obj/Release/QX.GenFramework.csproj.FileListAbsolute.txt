@@ -1,0 +1,14 @@
+F:\Code\CC_Document\CC_Document\QX.GenFramework\bin\Release\QX.GenFramework.dll
+F:\Code\CC_Document\CC_Document\QX.GenFramework\bin\Release\QX.GenFramework.pdb
+F:\Code\CC_Document\CC_Document\QX.GenFramework\bin\Release\QX.DataAcess.dll
+F:\Code\CC_Document\CC_Document\QX.GenFramework\bin\Release\QX.DataAcess.pdb
+F:\Code\CC_Document\CC_Document\QX.GenFramework\obj\Release\ResolveAssemblyReference.cache
+F:\Code\CC_Document\CC_Document\QX.GenFramework\obj\Release\QX.Common.BseControl.Bse_Form.resources
+F:\Code\CC_Document\CC_Document\QX.GenFramework\obj\Release\QX.Common.BseControl.Bse_PopForm.resources
+F:\Code\CC_Document\CC_Document\QX.GenFramework\obj\Release\BC.Common.BseControl.ComGridPager.resources
+F:\Code\CC_Document\CC_Document\QX.GenFramework\obj\Release\QX.Common.BseControl.CommonToolBar.resources
+F:\Code\CC_Document\CC_Document\QX.GenFramework\obj\Release\QX.Framework.AutoForm.SystemInformationHelp.resources
+F:\Code\CC_Document\CC_Document\QX.GenFramework\obj\Release\QX.GenFramework.Properties.Resources.resources
+F:\Code\CC_Document\CC_Document\QX.GenFramework\obj\Release\QX.GenFramework.csproj.GenerateResource.Cache
+F:\Code\CC_Document\CC_Document\QX.GenFramework\obj\Release\QX.GenFramework.dll
+F:\Code\CC_Document\CC_Document\QX.GenFramework\obj\Release\QX.GenFramework.pdb

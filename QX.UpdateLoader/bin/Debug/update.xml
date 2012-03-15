@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<version ver="1" />
+<updateFiles>
+  <file path="AutoUpdater111.dll"  url="AutoUpdater.dll" lastver="1.0.0.0" size="28672" needRestart="true" />
+
+</updateFiles>
+</root>

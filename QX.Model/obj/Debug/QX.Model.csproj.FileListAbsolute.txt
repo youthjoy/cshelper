@@ -1,0 +1,10 @@
+F:\Code\CC_Document\CC_Document\QX.Model\bin\Debug\QX.Model.dll
+F:\Code\CC_Document\CC_Document\QX.Model\bin\Debug\QX.Model.pdb
+F:\Code\CC_Document\CC_Document\QX.Model\obj\Debug\ResolveAssemblyReference.cache
+F:\Code\CC_Document\CC_Document\QX.Model\obj\Debug\QX.Model.dll
+F:\Code\CC_Document\CC_Document\QX.Model\obj\Debug\QX.Model.pdb
+E:\Code\CC_Document\CC_Document\QX.Model\bin\Debug\QX.Model.dll
+E:\Code\CC_Document\CC_Document\QX.Model\bin\Debug\QX.Model.pdb
+E:\Code\CC_Document\CC_Document\QX.Model\obj\Debug\ResolveAssemblyReference.cache
+E:\Code\CC_Document\CC_Document\QX.Model\obj\Debug\QX.Model.dll
+E:\Code\CC_Document\CC_Document\QX.Model\obj\Debug\QX.Model.pdb

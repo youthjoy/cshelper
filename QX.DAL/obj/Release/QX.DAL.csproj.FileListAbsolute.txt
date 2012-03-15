@@ -1,0 +1,11 @@
+F:\Code\CC_Document\CC_Document\QX.DAL\bin\Release\QX.DAL.dll
+F:\Code\CC_Document\CC_Document\QX.DAL\bin\Release\QX.DAL.pdb
+F:\Code\CC_Document\CC_Document\QX.DAL\bin\Release\QX.DataAcess.dll
+F:\Code\CC_Document\CC_Document\QX.DAL\bin\Release\QX.Model.dll
+F:\Code\CC_Document\CC_Document\QX.DAL\bin\Release\QX.Shared.dll
+F:\Code\CC_Document\CC_Document\QX.DAL\bin\Release\QX.Model.pdb
+F:\Code\CC_Document\CC_Document\QX.DAL\bin\Release\QX.DataAcess.pdb
+F:\Code\CC_Document\CC_Document\QX.DAL\bin\Release\QX.Shared.pdb
+F:\Code\CC_Document\CC_Document\QX.DAL\obj\Release\ResolveAssemblyReference.cache
+F:\Code\CC_Document\CC_Document\QX.DAL\obj\Release\QX.DAL.dll
+F:\Code\CC_Document\CC_Document\QX.DAL\obj\Release\QX.DAL.pdb

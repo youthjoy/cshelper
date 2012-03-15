@@ -1,0 +1,14 @@
+F:\Code\CC_Document\CC_Document\QX.Helper\bin\Release\QX.Helper.dll
+F:\Code\CC_Document\CC_Document\QX.Helper\bin\Release\QX.Helper.pdb
+F:\Code\CC_Document\CC_Document\QX.Helper\bin\Release\ICSharpCode.SharpZipLib.dll
+F:\Code\CC_Document\CC_Document\QX.Helper\bin\Release\iTextAsian.dll
+F:\Code\CC_Document\CC_Document\QX.Helper\bin\Release\itext-hyph-xml.dll
+F:\Code\CC_Document\CC_Document\QX.Helper\bin\Release\itextsharp.dll
+F:\Code\CC_Document\CC_Document\QX.Helper\bin\Release\Interop.WIA.dll
+F:\Code\CC_Document\CC_Document\QX.Helper\bin\Release\Interop.WIALib.dll
+F:\Code\CC_Document\CC_Document\QX.Helper\obj\Release\ResolveAssemblyReference.cache
+F:\Code\CC_Document\CC_Document\QX.Helper\obj\Release\Interop.WIA.dll
+F:\Code\CC_Document\CC_Document\QX.Helper\obj\Release\Interop.WIALib.dll
+F:\Code\CC_Document\CC_Document\QX.Helper\obj\Release\QX.Helper.csproj.ResolveComReference.cache
+F:\Code\CC_Document\CC_Document\QX.Helper\obj\Release\QX.Helper.dll
+F:\Code\CC_Document\CC_Document\QX.Helper\obj\Release\QX.Helper.pdb

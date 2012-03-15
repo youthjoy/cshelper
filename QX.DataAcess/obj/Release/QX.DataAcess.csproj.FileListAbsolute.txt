@@ -1,0 +1,5 @@
+F:\Code\CC_Document\CC_Document\QX.DataAcess\bin\Release\QX.DataAcess.dll
+F:\Code\CC_Document\CC_Document\QX.DataAcess\bin\Release\QX.DataAcess.pdb
+F:\Code\CC_Document\CC_Document\QX.DataAcess\obj\Release\ResolveAssemblyReference.cache
+F:\Code\CC_Document\CC_Document\QX.DataAcess\obj\Release\QX.DataAcess.dll
+F:\Code\CC_Document\CC_Document\QX.DataAcess\obj\Release\QX.DataAcess.pdb

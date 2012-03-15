@@ -1,0 +1,14 @@
+F:\Code\CC_Document\CC_Document\QX.Shared\bin\Debug\QX.Shared.dll
+F:\Code\CC_Document\CC_Document\QX.Shared\bin\Debug\QX.Shared.pdb
+F:\Code\CC_Document\CC_Document\QX.Shared\bin\Debug\QX.Model.dll
+F:\Code\CC_Document\CC_Document\QX.Shared\bin\Debug\QX.Model.pdb
+F:\Code\CC_Document\CC_Document\QX.Shared\obj\Debug\ResolveAssemblyReference.cache
+F:\Code\CC_Document\CC_Document\QX.Shared\obj\Debug\QX.Shared.dll
+F:\Code\CC_Document\CC_Document\QX.Shared\obj\Debug\QX.Shared.pdb
+E:\Code\CC_Document\CC_Document\QX.Shared\bin\Debug\QX.Shared.dll
+E:\Code\CC_Document\CC_Document\QX.Shared\bin\Debug\QX.Shared.pdb
+E:\Code\CC_Document\CC_Document\QX.Shared\bin\Debug\QX.Model.dll
+E:\Code\CC_Document\CC_Document\QX.Shared\bin\Debug\QX.Model.pdb
+E:\Code\CC_Document\CC_Document\QX.Shared\obj\Debug\ResolveAssemblyReference.cache
+E:\Code\CC_Document\CC_Document\QX.Shared\obj\Debug\QX.Shared.dll
+E:\Code\CC_Document\CC_Document\QX.Shared\obj\Debug\QX.Shared.pdb

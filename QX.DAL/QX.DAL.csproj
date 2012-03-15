@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{3F0B0AB5-7A7D-4192-8649-3C9827B6B611}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>QX.DAL</RootNamespace>
+    <AssemblyName>QX.DAL</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ADOAudit_Template.cs" />
+    <Compile Include="ADOBse_Department.cs" />
+    <Compile Include="ADOBse_Dict.cs" />
+    <Compile Include="ADOBse_Employee.cs" />
+    <Compile Include="ADOCC_File.cs" />
+    <Compile Include="ADOCC_Movement.cs" />
+    <Compile Include="ADOCC_Record.cs" />
+    <Compile Include="ADODoc_Directory.cs" />
+    <Compile Include="ADOProd_Components.cs" />
+    <Compile Include="ADOProd_Doc.cs" />
+    <Compile Include="ADOProd_Maintain.cs" />
+    <Compile Include="ADOProd_Pool.cs" />
+    <Compile Include="ADOSys_CSMenu.cs" />
+    <Compile Include="ADOSys_DictKey.cs" />
+    <Compile Include="ADOSys_DictModule.cs" />
+    <Compile Include="ADOSys_Map.cs" />
+    <Compile Include="Base\ADOSys_RunLog.cs" />
+    <Compile Include="ADOTpl_Components.cs" />
+    <Compile Include="ADOTpl_ReqDoc.cs" />
+    <Compile Include="ADOVerifyProcess_Records.cs" />
+    <Compile Include="ADOVerify_Nodes.cs" />
+    <Compile Include="ADOVerify_TemplateConfig.cs" />
+    <Compile Include="ADOVerify_Users.cs" />
+    <Compile Include="Base\Sys_RunLog.cs" />
+    <Compile Include="Extend\ADOCC_File.cs" />
+    <Compile Include="Extend\ADOComm.cs" />
+    <Compile Include="Extend\ADOProd_Doc.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\QX.DataAcess\QX.DataAcess.csproj">
+      <Project>{62DF783B-D2DA-4807-8864-A763533798A7}</Project>
+      <Name>QX.DataAcess</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\QX.Model\QX.Model.csproj">
+      <Project>{8E2AB412-1002-4314-9E93-7D040EA4EC0F}</Project>
+      <Name>QX.Model</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\QX.Shared\QX.Shared.csproj">
+      <Project>{317B9684-3FE0-406F-99E0-92F0B301BDC1}</Project>
+      <Name>QX.Shared</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

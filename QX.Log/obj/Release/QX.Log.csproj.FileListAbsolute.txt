@@ -1,0 +1,6 @@
+F:\Code\CC_Document\CC_Document\QX.Log\bin\Release\QX.Log.dll
+F:\Code\CC_Document\CC_Document\QX.Log\bin\Release\QX.Log.pdb
+F:\Code\CC_Document\CC_Document\QX.Log\bin\Release\log4net.dll
+F:\Code\CC_Document\CC_Document\QX.Log\obj\Release\ResolveAssemblyReference.cache
+F:\Code\CC_Document\CC_Document\QX.Log\obj\Release\QX.Log.dll
+F:\Code\CC_Document\CC_Document\QX.Log\obj\Release\QX.Log.pdb

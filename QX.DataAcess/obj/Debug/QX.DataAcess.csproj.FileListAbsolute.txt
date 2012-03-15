@@ -1,0 +1,10 @@
+F:\Code\CC_Document\CC_Document\QX.DataAcess\bin\Debug\QX.DataAcess.dll
+F:\Code\CC_Document\CC_Document\QX.DataAcess\bin\Debug\QX.DataAcess.pdb
+F:\Code\CC_Document\CC_Document\QX.DataAcess\obj\Debug\ResolveAssemblyReference.cache
+F:\Code\CC_Document\CC_Document\QX.DataAcess\obj\Debug\QX.DataAcess.dll
+F:\Code\CC_Document\CC_Document\QX.DataAcess\obj\Debug\QX.DataAcess.pdb
+E:\Code\CC_Document\CC_Document\QX.DataAcess\bin\Debug\QX.DataAcess.dll
+E:\Code\CC_Document\CC_Document\QX.DataAcess\bin\Debug\QX.DataAcess.pdb
+E:\Code\CC_Document\CC_Document\QX.DataAcess\obj\Debug\ResolveAssemblyReference.cache
+E:\Code\CC_Document\CC_Document\QX.DataAcess\obj\Debug\QX.DataAcess.dll
+E:\Code\CC_Document\CC_Document\QX.DataAcess\obj\Debug\QX.DataAcess.pdb

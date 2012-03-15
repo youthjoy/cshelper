@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <config>
+    <DefaultScan key="DefaultScan" value="" />
+    <FtpAddress key="FtpAddress" value="ftp://localhost/" />
+    <UserName key="UserName" value="test" />
+    <Password key="Password" value="test" />
+    <LocalPath key="LocalPath" value="D:\扫描资料" />
+  </config>
+</configuration>

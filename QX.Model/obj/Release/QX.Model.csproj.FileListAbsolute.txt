@@ -1,0 +1,5 @@
+F:\Code\CC_Document\CC_Document\QX.Model\bin\Release\QX.Model.dll
+F:\Code\CC_Document\CC_Document\QX.Model\bin\Release\QX.Model.pdb
+F:\Code\CC_Document\CC_Document\QX.Model\obj\Release\ResolveAssemblyReference.cache
+F:\Code\CC_Document\CC_Document\QX.Model\obj\Release\QX.Model.dll
+F:\Code\CC_Document\CC_Document\QX.Model\obj\Release\QX.Model.pdb

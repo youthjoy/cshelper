@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{06723DA2-3A6E-4347-90CD-CB66ABA56C71}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>QX.BLL</RootNamespace>
+    <AssemblyName>QX.BLL</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Bll_Bse_Dict.cs" />
+    <Compile Include="Bll_Bse_Employee.cs" />
+    <Compile Include="Bll_Comm.cs" />
+    <Compile Include="Bll_Comp.cs" />
+    <Compile Include="Bll_Dept.cs" />
+    <Compile Include="Bll_Doc.cs" />
+    <Compile Include="Bll_File.cs" />
+    <Compile Include="Bll_Login.cs" />
+    <Compile Include="Bll_Prod.cs" />
+    <Compile Include="Bll_SysMap.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\QX.DAL\QX.DAL.csproj">
+      <Project>{3F0B0AB5-7A7D-4192-8649-3C9827B6B611}</Project>
+      <Name>QX.DAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\QX.GenFramework\QX.GenFramework.csproj">
+      <Project>{992FB940-7AD9-4CAF-A990-5345F5EB5B09}</Project>
+      <Name>QX.GenFramework</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\QX.Helper\QX.Helper.csproj">
+      <Project>{E7BCD3EF-C3DE-4F72-A540-A3CCF65285E5}</Project>
+      <Name>QX.Helper</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\QX.Model\QX.Model.csproj">
+      <Project>{8E2AB412-1002-4314-9E93-7D040EA4EC0F}</Project>
+      <Name>QX.Model</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\QX.Shared\QX.Shared.csproj">
+      <Project>{317B9684-3FE0-406F-99E0-92F0B301BDC1}</Project>
+      <Name>QX.Shared</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

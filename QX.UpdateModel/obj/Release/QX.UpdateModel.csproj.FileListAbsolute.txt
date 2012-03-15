@@ -1,0 +1,10 @@
+E:\TFS\HFERP2\QX.UpdateModel\bin\Release\QX.UpdateModel.dll
+E:\TFS\HFERP2\QX.UpdateModel\bin\Release\QX.UpdateModel.pdb
+E:\TFS\HFERP2\QX.UpdateModel\obj\Release\ResolveAssemblyReference.cache
+E:\TFS\HFERP2\QX.UpdateModel\obj\Release\QX.UpdateModel.dll
+E:\TFS\HFERP2\QX.UpdateModel\obj\Release\QX.UpdateModel.pdb
+F:\Code\CC_Document\CC_Document\QX.UpdateModel\bin\Release\QX.UpdateModel.dll
+F:\Code\CC_Document\CC_Document\QX.UpdateModel\bin\Release\QX.UpdateModel.pdb
+F:\Code\CC_Document\CC_Document\QX.UpdateModel\obj\Release\ResolveAssemblyReference.cache
+F:\Code\CC_Document\CC_Document\QX.UpdateModel\obj\Release\QX.UpdateModel.dll
+F:\Code\CC_Document\CC_Document\QX.UpdateModel\obj\Release\QX.UpdateModel.pdb

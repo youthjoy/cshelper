@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <config>
+    <DefaultScan key="DefaultScan" value="{6BDD1FC6-810F-11D0-BEC7-08002BE2092F}\0003" />
+    <FtpAddress key="FtpAddress" value="ftp://192.168.1.100/" />
+    <UserName key="UserName" value="test" />
+    <Password key="Password" value="test" />
+    <LocalPath key="LocalPath" value="D:/" />
+  </config>
+</configuration>
